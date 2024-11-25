@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="canvasappkeydownns" constructor="canvasappkeydown" version="0.0.12" display-name-key="canvasappkeydown" description-key="canvasappkeydown description" control-type="virtual" >
+
+    <property name="keyboardShortcuts" display-name-key="keyboardShortcuts" description-key="keyboardShortcuts" of-type="SingleLine.Text" usage="bound" required="true" />
+    <property name="ignore" display-name-key="ignore" description-key="ignore" of-type="TwoOptions" usage="bound" required="true" />
+    <property name="keyDownOutput" display-name-key="keyDownOutput" description-key="keyDownOutput" of-type="SingleLine.Text" usage="output" required="false" />
+
+    <resources>
+      <code path="index.ts" order="1"/>
+      <platform-library name="React" version="16.8.6" />
+      <platform-library name="Fluent" version="8.29.0" />
+    </resources>
+  </control>
+</manifest>

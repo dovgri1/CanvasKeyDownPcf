@@ -76,7 +76,7 @@ Contributions are welcome! If you encounter issues or have suggestions for impro
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. It is free to use, modify, and distribute for any purpose, ensuring accessibility for everyone. See the [LICENSE](LICENSE) file for full details.
 
 ## Acknowledgments
 
